@@ -1,9 +1,9 @@
-# [payamresan](https://t.me/prackbot)
+# [Payamresan](https://t.me/prackbot)
 
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.5-00aced.svg)](https://core.telegram.org/bots/api)
 [![https://t.me/Csapktvu](https://img.shields.io/badge/💬%20Telegram-Csapktvu-00aced.svg)](https://t.me/Csapktvu)
 
-## prackbot V1.0
+## Prackbot V1.0
  Scientific Societies messenger Telegram-bot to connect with members 
 * * *
 
